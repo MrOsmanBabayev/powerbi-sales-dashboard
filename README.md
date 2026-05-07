@@ -20,6 +20,6 @@ Bu dashboard satış məlumatlarının analizi üçün hazırlanıb.
 Dataset test məqsədli yaradılmışdır.
 
 ## Dashboard Preview
-![Dashboard](Dashboard1.png)
+[![Dashboard](Dashboard1.png)](https://github.com/MrOsmanBabayev/powerbi-sales-dashboard/blob/main/README.md)
 ![Dashboard](Dashboard2.png)
 ![Dashboard](Dashboard3.png)

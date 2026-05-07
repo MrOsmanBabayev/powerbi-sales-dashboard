@@ -1,2 +1,23 @@
-# powerbi-sales-dashboard
-Power BI dashboard project focused on sales analysis and business insights. Built interactive visualizations using Power BI, DAX, and Power Query to analyze sales performance, product categories, regional trends, and KPIs. The dashboard includes slicers, dynamic measures, and data modeling techniques for better decision-making and reporting
+# Sales Dashboard - Power BI
+
+## Project Overview
+Bu dashboard satış məlumatlarının analizi üçün hazırlanıb.
+
+## İstifadə olunan texnologiyalar
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+## Dashboard Features
+- Total Sales KPI
+- Region üzrə satış analizi
+- Məhsul kateqoriyaları
+- Aylıq trend analizi
+- Slicer və filterlər
+
+## Dataset
+Dataset test məqsədli yaradılmışdır.
+
+## Dashboard Preview
+![Dashboard](images/dashboard.png)

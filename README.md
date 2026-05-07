@@ -20,4 +20,6 @@ Bu dashboard satış məlumatlarının analizi üçün hazırlanıb.
 Dataset test məqsədli yaradılmışdır.
 
 ## Dashboard Preview
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard1.png)
+![Dashboard](Dashboard2.png)
+![Dashboard](Dashboard3.png)

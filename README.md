@@ -1,9 +1,9 @@
 # Sales Dashboard - Power BI
 
 ## Project Overview
-Bu dashboard satış məlumatlarının analizi üçün hazırlanıb.
+This dashboard is designed for sales data analysis.
 
-## İstifadə olunan texnologiyalar
+## Technologies used
 - Power BI
 - DAX
 - Power Query
@@ -11,13 +11,13 @@ Bu dashboard satış məlumatlarının analizi üçün hazırlanıb.
 
 ## Dashboard Features
 - Total Sales KPI
-- Region üzrə satış analizi
-- Məhsul kateqoriyaları
-- Aylıq trend analizi
-- Slicer və filterlər
+- Regional Sales Analysis
+- Product Categories
+- Monthly Trend Analysis
+- Slicers and filters
 
 ## Dataset
-Dataset test məqsədli yaradılmışdır.
+The dataset was created for testing purposes.
 
 ## Dashboard Preview
 [![Dashboard](Dashboard1.png)](https://github.com/MrOsmanBabayev/powerbi-sales-dashboard/blob/main/README.md)
